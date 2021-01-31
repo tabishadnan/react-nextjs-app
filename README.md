@@ -1,1 +1,1 @@
-Live [Demo](https://react-nextjs-app.vercel.app/).
+Live [Demo](https://react-nextjs-app.vercel.app/)
